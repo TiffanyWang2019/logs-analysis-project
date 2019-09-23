@@ -16,4 +16,5 @@ The output of the program will answer the following questions:
 1. What are the most popular three articles?
 2. Who are the most popular article authors?
 3. On which days did more than 1% of requests lead to errors?
+
 You can view the answers in output.txt
